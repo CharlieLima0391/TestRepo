@@ -1,3 +1,0 @@
-This is some test test.
-
-Learning how to use github from command line.
